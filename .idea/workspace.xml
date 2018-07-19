@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf388bee-86de-4608-a177-d40ca78f4d06" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/src/.gradle/" />
+    <ignored path="$PROJECT_DIR$/src/build/" />
+    <ignored path="$PROJECT_DIR$/src/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled2$Boot.ic" NAME="Boot Coverage Results" MODIFIED="1531392240319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/src">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="untitled2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Script" />
+        <option value="Class" />
+        <option value="Gradle Kotlin DSL Build Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user</find>
+      <find>UserHandler</find>
+      <find>loggingMagnet</find>
+      <find>log</find>
+      <find>main</find>
+      <find>implicit</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>BookHandler</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Gradle\gradle-4.9" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.9" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="1" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project '1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Scaladoc for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="scaladoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Scala source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileScala" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project '1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4595652418724" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/1" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1064215102" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="838754274" />
+        <entry key="$PROJECT_DIR$/src/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/src/build.gradle" value="1494524543" />
+        <entry key="$PROJECT_DIR$/test" value="0" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="1" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Gradle/gradle-4.9/src/announce" />
+                  <option value="C:/Gradle/gradle-4.9/src/antlr" />
+                  <option value="C:/Gradle/gradle-4.9/src/base-services" />
+                  <option value="C:/Gradle/gradle-4.9/src/base-services-groovy" />
+                  <option value="C:/Gradle/gradle-4.9/src/build-cache" />
+                  <option value="C:/Gradle/gradle-4.9/src/build-cache-http" />
+                  <option value="C:/Gradle/gradle-4.9/src/build-comparison" />
+                  <option value="C:/Gradle/gradle-4.9/src/build-init" />
+                  <option value="C:/Gradle/gradle-4.9/src/build-option" />
+                  <option value="C:/Gradle/gradle-4.9/src/cli" />
+                  <option value="C:/Gradle/gradle-4.9/src/code-quality" />
+                  <option value="C:/Gradle/gradle-4.9/src/composite-builds" />
+                  <option value="C:/Gradle/gradle-4.9/src/core" />
+                  <option value="C:/Gradle/gradle-4.9/src/core-api" />
+                  <option value="C:/Gradle/gradle-4.9/src/dependency-management" />
+                  <option value="C:/Gradle/gradle-4.9/src/diagnostics" />
+                  <option value="C:/Gradle/gradle-4.9/src/ear" />
+                  <option value="C:/Gradle/gradle-4.9/src/ide" />
+                  <option value="C:/Gradle/gradle-4.9/src/ide-native" />
+                  <option value="C:/Gradle/gradle-4.9/src/ide-play" />
+                  <option value="C:/Gradle/gradle-4.9/src/installation-beacon" />
+                  <option value="C:/Gradle/gradle-4.9/src/internal-android-performance-testing" />
+                  <option value="C:/Gradle/gradle-4.9/src/internal-integ-testing" />
+                  <option value="C:/Gradle/gradle-4.9/src/internal-performance-testing" />
+                  <option value="C:/Gradle/gradle-4.9/src/internal-testing" />
+                  <option value="C:/Gradle/gradle-4.9/src/ivy" />
+                  <option value="C:/Gradle/gradle-4.9/src/jacoco" />
+                  <option value="C:/Gradle/gradle-4.9/src/javascript" />
+                  <option value="C:/Gradle/gradle-4.9/src/jvm-services" />
+                  <option value="C:/Gradle/gradle-4.9/src/language-groovy" />
+                  <option value="C:/Gradle/gradle-4.9/src/language-java" />
+                  <option value="C:/Gradle/gradle-4.9/src/language-jvm" />
+                  <option value="C:/Gradle/gradle-4.9/src/language-native" />
+                  <option value="C:/Gradle/gradle-4.9/src/language-scala" />
+                  <option value="C:/Gradle/gradle-4.9/src/launcher" />
+                  <option value="C:/Gradle/gradle-4.9/src/logging" />
+                  <option value="C:/Gradle/gradle-4.9/src/maven" />
+                  <option value="C:/Gradle/gradle-4.9/src/messaging" />
+                  <option value="C:/Gradle/gradle-4.9/src/model-core" />
+                  <option value="C:/Gradle/gradle-4.9/src/model-groovy" />
+                  <option value="C:/Gradle/gradle-4.9/src/native" />
+                  <option value="C:/Gradle/gradle-4.9/src/osgi" />
+                  <option value="C:/Gradle/gradle-4.9/src/persistent-cache" />
+                  <option value="C:/Gradle/gradle-4.9/src/platform-base" />
+                  <option value="C:/Gradle/gradle-4.9/src/platform-jvm" />
+                  <option value="C:/Gradle/gradle-4.9/src/platform-native" />
+                  <option value="C:/Gradle/gradle-4.9/src/platform-play" />
+                  <option value="C:/Gradle/gradle-4.9/src/plugin-development" />
+                  <option value="C:/Gradle/gradle-4.9/src/plugin-use" />
+                  <option value="C:/Gradle/gradle-4.9/src/plugins" />
+                  <option value="C:/Gradle/gradle-4.9/src/process-services" />
+                  <option value="C:/Gradle/gradle-4.9/src/publish" />
+                  <option value="C:/Gradle/gradle-4.9/src/reporting" />
+                  <option value="C:/Gradle/gradle-4.9/src/resources" />
+                  <option value="C:/Gradle/gradle-4.9/src/resources-gcs" />
+                  <option value="C:/Gradle/gradle-4.9/src/resources-http" />
+                  <option value="C:/Gradle/gradle-4.9/src/resources-s3" />
+                  <option value="C:/Gradle/gradle-4.9/src/resources-sftp" />
+                  <option value="C:/Gradle/gradle-4.9/src/scala" />
+                  <option value="C:/Gradle/gradle-4.9/src/signing" />
+                  <option value="C:/Gradle/gradle-4.9/src/test-kit" />
+                  <option value="C:/Gradle/gradle-4.9/src/testing-base" />
+                  <option value="C:/Gradle/gradle-4.9/src/testing-junit-platform" />
+                  <option value="C:/Gradle/gradle-4.9/src/testing-jvm" />
+                  <option value="C:/Gradle/gradle-4.9/src/testing-native" />
+                  <option value="C:/Gradle/gradle-4.9/src/tooling-api" />
+                  <option value="C:/Gradle/gradle-4.9/src/tooling-api-builders" />
+                  <option value="C:/Gradle/gradle-4.9/src/version-control" />
+                  <option value="C:/Gradle/gradle-4.9/src/workers" />
+                  <option value="C:/Gradle/gradle-4.9/src/wrapper" />
+                  <option value="C:/Gradle/gradle-4.9/lib/ant-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/ant-launcher-1.9.11.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-base-services-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-base-services-groovy-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-build-cache-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-build-option-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-cli-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-core-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-core-api-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-docs-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-installation-beacon-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-jvm-services-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-0.18.4.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-provider-plugins-0.18.4.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-tooling-builders-0.18.4.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-kotlin-dsl-tooling-models-0.18.4.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-launcher-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-logging-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-messaging-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-model-core-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-model-groovy-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-native-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-persistent-cache-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-process-services-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-resources-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-runtime-api-info-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-tooling-api-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/gradle-wrapper-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/groovy-all-2.4.12.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-announce-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-antlr-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-build-cache-http-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-build-comparison-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-build-init-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-code-quality-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-composite-builds-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-dependency-management-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-diagnostics-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-ear-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-ide-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-ide-native-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-ide-play-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-ivy-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-jacoco-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-javascript-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-language-groovy-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-language-java-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-language-jvm-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-language-native-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-language-scala-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-maven-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-osgi-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-platform-base-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-platform-jvm-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-platform-native-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-platform-play-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-plugin-development-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-plugin-use-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-plugins-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-publish-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-reporting-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-resources-gcs-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-resources-http-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-resources-s3-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-resources-sftp-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-scala-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-signing-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-test-kit-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-testing-base-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-testing-junit-platform-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-testing-jvm-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-testing-native-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-tooling-api-builders-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-version-control-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/gradle-workers-4.9.jar" />
+                  <option value="C:/Gradle/gradle-4.9/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/1" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/test" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/Script.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/BookCRUD.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/RedisRepoImpl.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/BookHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/BookHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/ConcreteRedis.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/User.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/Book.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/model/UserHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/RedisRepo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/Test.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/repository/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/AkkaHttpRedisService.scala" />
+        <option value="$PROJECT_DIR$/1/build.gradle" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/build.gradle" />
+        <option value="$PROJECT_DIR$/test/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/scala/ExampleSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/Book.scala" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/scala/Service.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Boot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Serv.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/ExampleSpec.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Сергей\IdeaProjects\untitled2" />
+      <recent name="C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\app" />
+      <recent name="C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.untitled2 [test]">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Boot" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="untitled2 [check]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="check" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="untitled2 [compileTestScala]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileTestScala" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="untitled2 [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="untitled2 [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testClasses" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="untitled2 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Gradle.untitled2 [run]" />
+      <item itemvalue="Gradle.untitled2 [compileTestScala]" />
+      <item itemvalue="Gradle.untitled2 [testClasses]" />
+      <item itemvalue="Gradle.untitled2 [test]" />
+      <item itemvalue="Gradle.untitled2 [check]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.untitled2 [run]" />
+        <item itemvalue="Gradle.untitled2 [check]" />
+        <item itemvalue="Gradle.untitled2 [test]" />
+        <item itemvalue="Gradle.untitled2 [compileTestScala]" />
+        <item itemvalue="Gradle.untitled2 [testClasses]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="0" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2073824194" />
+        <entry key="C:\Users\Сергей\IdeaProjects\untitled2" value="0" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:\Users\Сергей\IdeaProjects\untitled2" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf388bee-86de-4608-a177-d40ca78f4d06" name="Default" comment="" />
+      <created>1530209588501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530209588501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="untitled2_[test] - 2018.07.19 at 16h 52m 17s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 16h 54m 00s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 01m 49s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 05m 22s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 10m 19s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 25m 31s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 33m 34s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 36m 27s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 40m 03s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="untitled2_[test] - 2018.07.19 at 17h 41m 00s.xml">
+      <configuration name="untitled2 [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32838285" />
+      <window_info anchor="right" id="sbt" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.330033" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.330033" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49261084" visible="true" weight="0.19440243" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" show_stripe_button="false" weight="0.32838285" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.45049506" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29867986" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.2397882" />
+      <window_info id="Structure" order="1" sideWeight="0.5073892" side_tool="true" weight="0.19440243" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="4" sideWeight="0.50246304" side_tool="true" weight="0.18835099" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32838285" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Script.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/repository/BookCRUD.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/repository/Main.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/repository/RedisRepoImpl.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/repository/BookHandler.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/repository/User.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.13.jar!/akka/actor/Actor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.13-sources.jar!/akka/actor/Actor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="502" column="25" lean-forward="true" selection-start-line="502" selection-start-column="25" selection-end-line="502" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/io.spray/spray-json_2.12/srcs/spray-json_2.12-1.3.4-sources.jar!/spray/json/DefaultJsonProtocol.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Function1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/RouteConcatenation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/directives/BasicDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/RouteResult.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.13.jar!/akka/http/scaladsl/server/package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/directives/SecurityDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.13-sources.jar!/akka/event/Logging.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="428" column="19" selection-start-line="428" selection-start-column="19" selection-end-line="428" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/Directive.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="132" column="69" lean-forward="true" selection-start-line="132" selection-start-column="69" selection-end-line="132" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/directives/DebuggingDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="48" column="85" lean-forward="true" selection-start-line="48" selection-start-column="85" selection-end-line="48" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe/config/srcs/config-1.3.2-sources.jar!/com/typesafe/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="615" column="7" selection-start-line="615" selection-start-column="7" selection-end-line="615" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.13-sources.jar!/akka/actor/Props.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-878">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Serv.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="626" selection-start-line="626" selection-end-line="626" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.13-sources.jar!/akka/http/scaladsl/model/HttpEntity.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="262" column="7" selection-start-line="262" selection-start-column="7" selection-end-line="262" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RedisRepo.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ConcreteRedis.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/UserHandler.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Boot$.java" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.13-sources.jar!/akka/actor/Extension.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.13-sources.jar!/akka/http/scaladsl/Http.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="925" column="64" lean-forward="true" selection-start-line="925" selection-start-column="64" selection-end-line="925" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/srcs/akka-http-core_2.12-10.0.13-sources.jar!/akka/http/scaladsl/model/HttpMessage.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="345" column="7" selection-start-line="345" selection-start-column="7" selection-end-line="345" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/directives/RouteDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/sun/net/www/protocol/http/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="1908" selection-start-line="1908" selection-end-line="1908" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/directives/PathDirectives.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-http_2.12/srcs/akka-http_2.12-10.0.13-sources.jar!/akka/http/scaladsl/server/PathMatcher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="503" column="9" selection-start-line="503" selection-start-column="9" selection-end-line="503" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/1/settings.gradle" />
+    <entry file="file://$PROJECT_DIR$/gradlew.bat" />
+    <entry file="file://$PROJECT_DIR$/1/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/src/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/ExampleSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AkkaHttpRedisService.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Client.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Book.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Serv.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/ExampleSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Boot.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1_test|1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.typesafe.akka:akka-actor_2.12:2.5.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

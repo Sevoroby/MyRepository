@@ -1,0 +1,34 @@
+products:
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Book$.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Book.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Boot$.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Boot$delayedInit$body.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Boot.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\JsonSupport.class
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\IdeaProjects\untitled2\build\classes\scala\main\Serv.class
+binary dependencies:
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.6\6bd975dd5ca2a50b94413b708389b892ae423181\scala-library-2.12.6.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.12\2.5.13\8138649154e4ba8eebb68f4e262971213b033ac6\akka-actor_2.12-2.5.13.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-http-core_2.12\10.1.3\4afd52ac66f762ed0981caf6b551a3e766801808\akka-http-core_2.12-10.1.3.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-http_2.12\10.1.3\99a65a16735893a20a65c0aa3c62e5375d4845f7\akka-http_2.12-10.1.3.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-stream_2.12\2.5.13\179960038f8f365d39941849b883eaf6d04a6d68\akka-stream_2.12-2.5.13.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.6\6bd975dd5ca2a50b94413b708389b892ae423181\scala-library-2.12.6.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-actor_2.12\2.5.13\8138649154e4ba8eebb68f4e262971213b033ac6\akka-actor_2.12-2.5.13.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-http-spray-json_2.12\10.1.3\819f58e88dc671c55069d2635baab4f4651e64c7\akka-http-spray-json_2.12-10.1.3.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-http_2.12\10.1.3\99a65a16735893a20a65c0aa3c62e5375d4845f7\akka-http_2.12-10.1.3.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\com.typesafe.akka\akka-stream_2.12\2.5.13\179960038f8f365d39941849b883eaf6d04a6d68\akka-stream_2.12-2.5.13.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\io.spray\spray-json_2.12\1.3.4\f9e8157b41b2e1fffa52fca445ce4571e79259b\spray-json_2.12-1.3.4.jar
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.12.6\6bd975dd5ca2a50b94413b708389b892ae423181\scala-library-2.12.6.jar
+source dependencies:
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala
+external dependencies:
+class names:
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala -> Book
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Book.scala -> Book$
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> Boot
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> Boot$
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Boot.scala -> Boot$delayedInit$body
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> JsonSupport
+   C:\Users\Сергей\IdeaProjects\untitled2\src\main\scala\Serv.scala -> Serv
